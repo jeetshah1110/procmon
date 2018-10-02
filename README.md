@@ -23,7 +23,7 @@ log     | Creates log of current running process on c drive
 readlog | Display the information from specified log file
 sysinfo | Display the current hardware configuration
 search  | Serach and display information of specific running process
-exit    | Terminate Marvellous Procmon
+exit    | Terminate Procmon
 
 *Hardware Requirements:*
 * 32 bit Windows NT OS(XP onwards) with built-in Win32 APIs
