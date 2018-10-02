@@ -14,18 +14,18 @@ The tool provides the following features:
 
 Command | Description
 ------- | ------------------------------------------
-ps      | display all information of process
-ps      | display all memory information of process
-ps -t   | display all information about threads
+ps      | Display all information of process
+ps      | Display all memory information of process
+ps -t   | Display all information about threads
 ps -d   | Display all information about DLL
 cls     | Clear all contents of console
 log     | Creates log of current running process on c drive
-readlog | display the information from specified log file
+readlog | Display the information from specified log file
 sysinfo | Display the current hardware configuration
 search  | Serach and display information of specific running process
 exit    | Terminate Marvellous Procmon
 
-_Hardware Requirements: _
+*Hardware Requirements:*
 * 32 bit Windows NT OS(XP onwards) with built-in Win32 APIs
 * Min 512Mb RAM
 
