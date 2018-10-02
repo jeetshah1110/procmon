@@ -14,16 +14,16 @@ The tool provides the following features:
 
 Command | Description
 ------- | ------------------------------------------
-ps      | display all information of process" << endl;
-ps      | display all memory information of process" << endl;
-ps -t   | display all information about threads" << endl;
-ps -d   | Display all information about DLL" << endl;
-cls     | Clear all contents of console" << endl;
-log     | Creates log of current running process on c drive" << endl;
-readlog | display the information from specified log file" << endl;
-sysinfo | Display the current hardware configuration" << endl;
-search  | Serach and display information of specific running process" << endl;
-exit    | Terminate Marvellous Procmon" << endl;
+ps      | display all information of process
+ps      | display all memory information of process
+ps -t   | display all information about threads
+ps -d   | Display all information about DLL
+cls     | Clear all contents of console
+log     | Creates log of current running process on c drive
+readlog | display the information from specified log file
+sysinfo | Display the current hardware configuration
+search  | Serach and display information of specific running process
+exit    | Terminate Marvellous Procmon
 
 _Hardware Requirements: _
 * 32 bit Windows NT OS(XP onwards) with built-in Win32 APIs
